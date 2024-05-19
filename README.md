@@ -1,5 +1,4 @@
-b.s. computer science w/ security concentration
-minors in management and music theory
+b.s. computer science w/ security concentration, minors in management and music theory
 
 interested in security, fintech, and ml/ai
 

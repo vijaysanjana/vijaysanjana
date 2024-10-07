@@ -2,7 +2,7 @@ b.s. computer science w/ security concentration, minors in management and music 
 
 interested in security, fintech, and ml/ai
 
-currently swe intern @ societe generale investment banking, prev. @ raytheon
+prev @ societe generale investment banking, raytheon
 
 anand123@purdue.edu
 <!---

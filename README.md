@@ -7,6 +7,7 @@ prev @ societe generale investment banking, raytheon
 graduating may 2026
 
 📧 anand123@purdue.edu
+
 🌐 sanjanaanand.me
 <!---
 vijaysanjana/vijaysanjana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

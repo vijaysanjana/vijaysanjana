@@ -2,6 +2,8 @@ b.s. computer science w/ security concentration, minors in management and music
 
 interested in security, fintech, and ml/ai
 
+curr swe intern @ datadog
+
 prev @ societe generale investment banking, raytheon
 
 graduating may 2026
